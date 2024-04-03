@@ -38,22 +38,27 @@ import { MdOutlinePermContactCalendar } from "react-icons/md";
 export const content = {
   nav: [
     {
+      id:0,
       link: "#home",
       icon: TbSmartHome,
     },
     {
+      id:1,
       link: "#skills",
       icon: BiUser,
     },
     {
+      id:2,
       link: "#services",
       icon: RiServiceLine,
     },
     {
+      id:3,
       link: "#projects",
       icon: RiProjectorLine,
     },
     {
+      id:4,
       link: "#contact",
       icon: MdOutlinePermContactCalendar,
     },
